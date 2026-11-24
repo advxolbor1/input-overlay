@@ -2,7 +2,7 @@
 
 A see-through, click-through keyboard + mouse overlay for macOS. It floats above
 every window (including full-screen apps) and lights up keys as you press them.
-It lives in the menu bar (no Dock icon).
+It lives in the menu bar.
 
 ## Requirements
 
